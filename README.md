@@ -33,7 +33,7 @@ Welcome to my **CodSoft Data Science Internship** repository! 🎓 This repo con
 ### 🖥 **1. Clone the Repository**
 Clone the repository from GitHub:
 ```bash
-git clone https://github.com/your-username/CODSOFT-Data-Science-Internship.git
+git clone https://github.com/ninad261/Codsoft-Data-Science-Internship.git
 ```
 
 ### ⚙ **2. Run the Python Files**
